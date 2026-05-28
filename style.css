@@ -13,6 +13,7 @@ body {
     text-align: center;
 }
 
+/* Main Card */
 #key-details-box {
     background-color: white;
 
@@ -30,6 +31,7 @@ body {
     box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
 }
 
+/* Title */
 h1 {
     margin-top: 0;
     margin-bottom: 25px;
@@ -37,6 +39,7 @@ h1 {
     font-size: 40px;
 }
 
+/* Big Key Display */
 #key-pressed-box {
     width: 220px;
     height: 220px;
@@ -54,12 +57,13 @@ h1 {
     margin-bottom: 25px;
 }
 
-
+/* Pressed Key Text */
 #key-pressed {
     font-size: 100px;
     font-weight: bold;
 }
 
+/* Key Details */
 #key-details {
     width: 100%;
 }
@@ -78,6 +82,7 @@ h1 {
     border-radius: 10px;
 }
 
+/* Back Button */
 .back-button {
     position: absolute;
 
